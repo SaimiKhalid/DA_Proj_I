@@ -1,0 +1,4 @@
+- Imported and analyzed a banking dataset of 2,940 clients from Excel into Google Colab, performing data cleaning, preprocessing, and feature engineering using Pandas and NumPy.
+- Performed in-depth EDA using Matplotlib, Seaborn, and Plotly to uncover trends in deposits, loans, and account usage patterns.
+- Developed an interactive Power BI dashboard visualizing KPIs such as $3.77bn total bank deposits, $2.60Bn total business lending, and an average account balance of $2.7M.
+- Delivered an executive-ready dashboard with dynamic filters, slicers, and modular layouts to support clear, data-driven decision-making.
